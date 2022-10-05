@@ -9,7 +9,7 @@ function drawBox() {
     canvas.height = window.innerHeight;
     let context = canvas.getContext("2d");
 
-    context.beginPath()
+    context.beginPath();
     context.rect(100, 100, 100, 100);
     context.stroke();
 
