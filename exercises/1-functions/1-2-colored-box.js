@@ -19,7 +19,6 @@ function drawBox() {
 
     //Line top left ==> right bottom
 
-
     context.beginPath();
     context.moveTo(100, 100);
     context.lineTo(250,250);

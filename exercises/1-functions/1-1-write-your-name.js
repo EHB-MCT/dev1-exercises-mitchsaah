@@ -38,7 +38,7 @@ function drawName() {
     context.stroke();
 
     //C
-    context.strokeStyle = "yellow";
+    context.strokeStyle = "#fea500";
     context.beginPath();
     context.moveTo(375, 60);
     context.lineTo(275, 60);

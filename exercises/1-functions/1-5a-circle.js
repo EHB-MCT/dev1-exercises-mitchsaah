@@ -24,6 +24,7 @@ function drawSunset() {
     //Ellipse
     context.fillStyle = "#ffff01";
     context.beginPath();
+    // graden (4de component)
     context.arc(300, 350, 100, 0, Math.PI, true);
     context.fill();
 

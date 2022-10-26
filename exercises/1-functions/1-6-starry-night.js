@@ -20,12 +20,9 @@ function drawStarryNight() {
     //Star
     context.beginPath();
     context.arc(100, 100, 200, 0, Math.PI /2);
-    context.arc()
+    context.arc();
     //context.arc();
     
     context.stroke();
-
-
-
 
 }
