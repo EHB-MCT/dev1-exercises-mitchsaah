@@ -19,7 +19,6 @@ function drawBricks() {
         context.fillRect(i * 110, 120, 100, 40);
         context.fillRect(60 + i * 110, 170, 100, 40);
 
-        
 
     }
 
